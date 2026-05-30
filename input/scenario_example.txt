@@ -1,0 +1,4 @@
+- A web application that allows users to upload personal data.
+- Users can create accounts and log in to manage their data.
+- A database exists that stores user information and personal data.
+- Authentication is handled based on username and password in database.
